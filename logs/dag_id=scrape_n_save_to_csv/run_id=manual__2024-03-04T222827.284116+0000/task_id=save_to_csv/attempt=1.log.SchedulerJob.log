@@ -1,0 +1,1 @@
+[2024-03-04T22:30:42.327+0000] {scheduler_job_runner.py:781} ERROR - Executor reports task instance <TaskInstance: scrape_n_save_to_csv.save_to_csv manual__2024-03-04T22:28:27.284116+00:00 [queued]> finished (failed) although the task says it's queued. (Info: None) Was the task killed externally?
